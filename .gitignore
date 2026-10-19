@@ -1,0 +1,6 @@
+.env
+numerology.db
+uploads/*
+!uploads/.gitkeep
+__pycache__/
+.venv/
